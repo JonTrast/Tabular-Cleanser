@@ -1,4 +1,4 @@
-# Tabular-Cleanser 🧼
+# Tabular-Cleanser 
 
 A lightweight CSV cleaning tool that helps you tidy up messy tabular data.
 
